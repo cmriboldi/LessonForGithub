@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0155F9BB20DBF5E300BBBD8A /* Welcome.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0155F9BA20DBF5E300BBBD8A /* Welcome.storyboard */; };
 		5E0A460920DB131900EA7CEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0A460820DB131900EA7CEA /* AppDelegate.swift */; };
 		5E0A460B20DB131900EA7CEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0A460A20DB131900EA7CEA /* ViewController.swift */; };
 		5E0A460E20DB131900EA7CEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E0A460C20DB131900EA7CEA /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0155F9BA20DBF5E300BBBD8A /* Welcome.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Welcome.storyboard; sourceTree = "<group>"; };
 		5E0A460520DB131900EA7CEA /* TeachingGithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeachingGithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E0A460820DB131900EA7CEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E0A460A20DB131900EA7CEA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				5E0A460820DB131900EA7CEA /* AppDelegate.swift */,
 				5E0A460A20DB131900EA7CEA /* ViewController.swift */,
+				0155F9BA20DBF5E300BBBD8A /* Welcome.storyboard */,
 				5E0A460C20DB131900EA7CEA /* Main.storyboard */,
 				5E0A460F20DB131B00EA7CEA /* Assets.xcassets */,
 				5E0A461120DB131B00EA7CEA /* LaunchScreen.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E0A461320DB131B00EA7CEA /* LaunchScreen.storyboard in Resources */,
+				0155F9BB20DBF5E300BBBD8A /* Welcome.storyboard in Resources */,
 				5E0A461020DB131B00EA7CEA /* Assets.xcassets in Resources */,
 				5E0A460E20DB131900EA7CEA /* Main.storyboard in Resources */,
 			);
