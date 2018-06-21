@@ -19,11 +19,17 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         
+//        sdfasdf asdf
+        // This should conflict massively
+//        sfadf asdf a
         
+//        asdfasf asdfas dfa s
         // Hotdog // hello This is a commit message that will cause a conflict
-
     }
 
+    func observe() -> Bool {
+        return false
+    }
 
 }
 
