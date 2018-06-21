@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         
         
-        // Hotdog // hello
+        // Hotdog // hello This is a commit message that will cause a conflict
 
     }
 
