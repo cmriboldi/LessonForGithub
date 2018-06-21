@@ -19,11 +19,10 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         
+        // Hi 
         
-        // Hotdog // hello This is a commit message that will cause a conflict
 
     }
-
 
 }
 
