@@ -20,12 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         
         
-        
-<<<<<<< HEAD
-        // Hotdog
-=======
-        // hello
->>>>>>> c6d3367e3f3ee835ba6b3f1189230567446e7c6b
+        // Hotdog // hello
+
     }
 
 
