@@ -21,7 +21,11 @@ class ViewController: UIViewController {
         
         
         
+<<<<<<< HEAD
         // Hotdog
+=======
+        // hello
+>>>>>>> c6d3367e3f3ee835ba6b3f1189230567446e7c6b
     }
 
 
